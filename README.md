@@ -20,8 +20,7 @@ A simple command-line quiz game written in Python. It features:
 ### Running the Quiz
 ```bash
 # Clone repo (optional)
-git clone https://github.com/yourusername/python-quiz-app.git
-cd python-quiz-app
-
+git clone https://github.com/emmytronix/CSS.git
+cd css/Task0_QuizApp_Emmanuel_Udodirim.py
 # Run directly
-python quiz_app.py
+Task0_QuizApp_Emmanuel_Udodirim.py
